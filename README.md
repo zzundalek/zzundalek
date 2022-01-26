@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zzundalek
 - 🌱 I’m currently learning Java Spring Boot
-- 💞️ I’m looking to collaborate on project suitable for beginners using Java Spring Boot.
+- 💞️ I’m looking to collaborate on project using Java Spring Boot.
 
 <!---
 zzundalek/zzundalek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
