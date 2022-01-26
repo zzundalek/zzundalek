@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @zzundalek
-- 🌱 I’m currently learning Java Spring Boot
 - 💞️ I’m looking to collaborate on project using Java Spring Boot.
 
 <!---
