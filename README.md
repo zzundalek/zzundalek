@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zzundalek
-- 💞️ I’m looking to collaborate on project using Java Spring Boot.
+- 💞️ I'm currenty absorbed by working on my Kupalo project 💞.
 
 <!---
 zzundalek/zzundalek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
